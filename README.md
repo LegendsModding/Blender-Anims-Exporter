@@ -1,2 +1,4 @@
 # Blender-Anims-Exporter
-Simple exporter script for Blender animations. 
+Simple exporter script for Blender animations to MCL JSON format. Needs more testing! Still requires some manual work to make them work fully(exports frame # instead of timing, will fix that). Will maybe update it eventually for more functionality(feel free to do so yourself). 
+
+Usage: Go in Blender's "scripting" mode, slap the script in there, select what you want exported, replace the export path to where you want, and run the script! You now have some animations if everything works. To get them working ingame you need to create a new animation within an animation file(or replace existing animations with yours). Have fun!
